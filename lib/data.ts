@@ -86,21 +86,21 @@ export const projectsData = [
     title: "B.P.S. University",
     description:
       "I worked as a full-stack developer in this University for 2 years. Students, alumini and teaching faculty meets at digital platforms.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Bootsrap"],
     imageUrl: bpsImg,
   },
   {
     title: "B.P.S. Department of Laws",
     description:
     "I worked as a full-stack developer in this University department for 2 years and provide tech. support. Students, alumini and teaching faculty meets at digital platforms.",
-    tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
+    tags: ["HTML","CSS","JavaScript", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: lawImg,
   },
   {
     title: "B.P.S. Department of Education",
     description:
     "I worked as a full-stack developer in this University department for 2 years and provide tech. support. Students, alumini and teaching faculty meets at digital platforms.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+    tags: ["React", "Next.js", "Bootstrap", "Tailwind", "Framer"],
     imageUrl: eduImg,
   },
 ] as const;
