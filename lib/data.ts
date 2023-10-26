@@ -92,14 +92,14 @@ export const projectsData = [
   {
     title: "B.P.S. Department of Laws",
     description:
-    "I worked as a full-stack developer in this University department for 2 years and provide tech. support. Students, alumini and teaching faculty meets at digital platforms.",
+    "I worked on many projects like NSDP, RTI, Civil Liberties, LBM, International Moot Court",
     tags: ["HTML","CSS","JavaScript", "TypeScript", "Next.js", "Tailwind", "Redux"],
     imageUrl: lawImg,
   },
   {
     title: "B.P.S. Department of Education",
     description:
-    "I worked as a full-stack developer in this University department for 2 years and provide tech. support. Students, alumini and teaching faculty meets at digital platforms.",
+    "I worked on several projects like Vedic ERA, RMDA, Idea, Pedagogical Innovations, NEP 2020",
     tags: ["React", "Next.js", "Bootstrap", "Tailwind", "Framer"],
     imageUrl: eduImg,
   },
