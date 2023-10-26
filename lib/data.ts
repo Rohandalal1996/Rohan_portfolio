@@ -5,6 +5,11 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
+import bpsImg from "@/public/bps.png";
+import eduImg from "@/public/edu.png";
+import lawImg from "@/public/law.png";
+
+
 
 export const links = [
   {
@@ -78,25 +83,25 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "B.P.S. University",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "I worked as a full-stack developer in this University for 2 years. Students, alumini and teaching faculty meets at digital platforms.",
     tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
-    imageUrl: corpcommentImg,
+    imageUrl: bpsImg,
   },
   {
-    title: "rmtDev",
+    title: "B.P.S. Department of Laws",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+    "I worked as a full-stack developer in this University department for 2 years and provide tech. support. Students, alumini and teaching faculty meets at digital platforms.",
     tags: ["React", "TypeScript", "Next.js", "Tailwind", "Redux"],
-    imageUrl: rmtdevImg,
+    imageUrl: lawImg,
   },
   {
-    title: "Word Analytics",
+    title: "B.P.S. Department of Education",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    "I worked as a full-stack developer in this University department for 2 years and provide tech. support. Students, alumini and teaching faculty meets at digital platforms.",
     tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+    imageUrl: eduImg,
   },
 ] as const;
 
@@ -109,15 +114,12 @@ export const skillsData = [
   "Next.js",
   "Node.js",
   "Git",
+  "GitHub",
   "Tailwind",
-  "Prisma",
   "MongoDB",
   "Redux",
   "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
+  "Vertical Timeline",
+  "SQL",
   "Framer Motion",
 ] as const;
